@@ -1,10 +1,10 @@
 <h1 align="center">Hi there, I`m,
-	<a href="https://notabug.org/Nick_Kramer" target="_blank">
-	Nick Kramer.
+	<a href="https://www.iptechsolutions.gr" target="_blank">
+	John Perperis.
 	</a> 
 </h1>
 
-<h3 align="center"> Porject: DecryptLogoV1-82-2. </h3>
+<h3 align="center"> Porject: DecryptLogoV2. </h3>
 
 <p align="left">
 	Description: This program allows you to take the password to unload a project from PLC Siemens LOGO! 8.
